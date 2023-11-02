@@ -20,13 +20,13 @@ Install dependencies by running:
   cargo build
   ```
 2. Clone the repository:
-   ```sh
-   git clone [https://github.com/nogibjj/individualproject2]
-   ```
+  ```sh
+  git clone [https://github.com/nogibjj/individualproject2]
+  ```
 3. Change directory to the project folder:
-   ```sh
-   cd individualproject2
-   ```
+  ```sh
+  cd individualproject2
+  ```
 
 ### CRUD:
 create [CONTENT] - create an entry in this table
