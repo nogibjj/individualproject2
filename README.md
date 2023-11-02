@@ -1,3 +1,4 @@
+[![Rust CI](https://github.com/nogibjj/individualproject2/actions/workflows/rust_build.yml/badge.svg)](https://github.com/nogibjj/individualproject2/actions/workflows/rust_build.yml)
 # Individual-Project2: Rust CLI Binary with SQLite
 
 ## Description
