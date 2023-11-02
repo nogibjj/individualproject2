@@ -50,21 +50,21 @@ For deployment or distribution, you might want to build an optimized version of 
 2. Execute the Compiled Binary: 
    Run the binary directly from the terminal:
    - Create:
-     ```
-     ./target/release/individualproject2 create "content1"
-     ```
+   ```
+   ./target/release/individualproject2 create "content1"
+   ```
    - Read:
-     ```
-     ./target/release/individualproject2 read
-     ```
+   ```
+   ./target/release/individualproject2 read
+   ```
    - Update:
-     ```
-     ./target/release/individualproject2 update 1 "new content1"
-     ```
+   ```
+   ./target/release/individualproject2 update 1 "new content1"
+   ```
    - Delete:
-     ```
-     ./target/release/individualproject2 delete 1
-     ```  
+   ```
+   ./target/release/individualproject2 delete 1
+   ```  
   
 ### Example:
 ![Production example](example1.png)
